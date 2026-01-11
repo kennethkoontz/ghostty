@@ -24,7 +24,6 @@ palette = 14=#7aa89f
 palette = 15=#c5c9c5
 
 keybind = cmd+i=prompt_surface_title
-keybind = cmd+v=text:\x16
 
 # Split navigation (performable passes keys to Neovim when no split exists)
 keybind = performable:ctrl+h=goto_split:left
